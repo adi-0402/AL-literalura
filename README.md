@@ -35,3 +35,16 @@ Esta aplicación de consola permite gestionar una base de datos de libros y auto
 Este proyecto demuestra cómo integrar fuentes externas de datos (API) con bases de datos locales, utilizando una arquitectura basada en Spring Boot. Facilita la gestión eficiente de datos y ofrece una experiencia interactiva al usuario.
 
 ---
+
+## 🎞 Demostración
+![Demo](demo/demo_1.png)
+
+![Demo](demo/demo_2.png)
+
+![Demo](demo/demo_3.png)
+
+![Demo](demo/demo_4.png)
+
+![Demo](demo/demo_5.png)
+
+![Demo](demo/demo_6.png)
